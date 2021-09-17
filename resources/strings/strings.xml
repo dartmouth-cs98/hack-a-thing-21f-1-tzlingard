@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">RunIdeaGenerator</string>
+    <string id="menu_item_1_label">0-7 miles</string>
+    <string id="menu_item_2_label">7-10 miles</string>
+    <string id="menu_item_3_label">10-13 miles</string>
+    <string id="menu_item_4_label">13-20 miles</string>
+</strings>
