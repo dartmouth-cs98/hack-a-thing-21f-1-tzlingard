@@ -3,4 +3,5 @@
     <menu-item id="item_2" label="@Strings.menu_item_2_label" />
     <menu-item id="item_3" label="@Strings.menu_item_3_label" />
     <menu-item id="item_4" label="@Strings.menu_item_4_label" />
+    <menu-item id="exit" label="@Strings.exit_label" />
 </menu>

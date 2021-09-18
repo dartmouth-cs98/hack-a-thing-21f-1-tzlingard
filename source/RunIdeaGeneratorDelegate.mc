@@ -7,6 +7,11 @@ class RunIdeaGeneratorDelegate extends Ui.MenuInputDelegate {
     }
 
     function onMenuItem(item) {
-        Ui.pushView(new RunIdeaGeneratorRunsView(item), null, WatchUi.SLIDE_BLINK);
+        if (item != :exit) {
+            Ui.pushView(new RunIdeaGeneratorRunsView(item), new RunIdeaGeneratorRunsDelegate(), Ui.SLIDE_BLINK);
+        }
+        else {
+            Ui.popView(SLIDE_IMMEDIATE);
+        }
    }
 }

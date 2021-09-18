@@ -28,6 +28,10 @@ class RunIdeaGeneratorRunsView extends Ui.View {
     /*function onShow() as Void {
     }*/
 
+    function onSwipe(swipeEvent) {
+        Ui.popView(Ui.SLIDE_BLINK);
+    }
+    
     // Update the view
     function onUpdate(dc as Dc) as Void {
         // Call the parent onUpdate function to redraw the layout
