@@ -26,4 +26,5 @@ Thomas Lingard, '22
 ## Acknowledgments
 
 https://developer.garmin.com/connect-iq/connect-iq-basics/getting-started/
+
 https://www.youtube.com/watch?v=2CJiVXboLws&t=1049s
