@@ -7,9 +7,13 @@ I built a Garmin Connect IQ Widget for my Garmin watch that, after choosing a re
 
 Screenshots:
 
+![](entry.jpg)
+
 ![](menu.jpg)
 
 ![](run-sample.jpg)
+
+![](real_watch.jpg)
 
 ## Who Did What?
 
