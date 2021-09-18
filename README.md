@@ -21,7 +21,7 @@ I worked on this project individually.
 
 ## What you learned
 
-Working on this project, I learned the basics of Monkey C and the process of programming a Garmin watch. I briefly struggled understanding that Connect IQ widgets have both an XML as well as a coding component to display the UI, mainly because I am most used to Flutter which combines the UI and the coding logic. I also found out that Math.rand(), while similar in name and function to functions in Java and other languages, actually generates a random number for 0 to (2^31)-1 rather than 0 to 1, which required a bit of debugging to fully realize.
+Working on this project, I learned the basics of Monkey C and the process of programming a Garmin watch. I briefly struggled with understanding that Connect IQ uses behavior delegates that work alongside views, mainly because I am most used to Flutter which allows users to combine the UI and the coding logic. I also found out that Math.rand(), while similar in name and function to functions in Java and other languages, actually generates a random number for 0 to (2^31)-1 rather than 0 to 1, which required a bit of messing around to fully realize.
 
 ## Author
 
