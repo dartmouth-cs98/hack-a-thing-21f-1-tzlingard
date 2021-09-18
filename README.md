@@ -6,6 +6,7 @@
 I built a Garmin Connect IQ Widget for my Garmin watch that, after choosing a relative distance, generates a random cross-country run in the given distance range. The app is written in Monkey C and was tested on my Garmin vivoactive. 
 
 Screenshots:
+
 ![](menu.jpg)
 
 ![](run-sample.jpg)
